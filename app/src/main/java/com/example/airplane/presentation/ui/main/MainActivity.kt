@@ -1,7 +1,8 @@
-package com.example.airplane
+package com.example.airplane.presentation.ui.main
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
+import com.example.airplane.R
 
 class MainActivity : AppCompatActivity() {
 
